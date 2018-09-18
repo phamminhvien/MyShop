@@ -1,0 +1,12 @@
+F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Model\bin\Debug\MyShop.Model.dll.config
+F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Model\bin\Debug\MyShop.Model.dll
+F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Model\bin\Debug\MyShop.Model.pdb
+F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Model\bin\Debug\EntityFramework.dll
+F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Model\bin\Debug\EntityFramework.SqlServer.dll
+F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Model\bin\Debug\MyShop.Common.dll
+F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Model\bin\Debug\MyShop.Common.pdb
+F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Model\bin\Debug\EntityFramework.xml
+F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Model\bin\Debug\EntityFramework.SqlServer.xml
+F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Model\obj\Debug\MyShop.Model.csprojResolveAssemblyReference.cache
+F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Model\obj\Debug\MyShop.Model.dll
+F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Model\obj\Debug\MyShop.Model.pdb

@@ -1,0 +1,5 @@
+F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Common\bin\Debug\MyShop.Common.dll
+F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Common\bin\Debug\MyShop.Common.pdb
+F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Common\obj\Debug\MyShop.Common.csprojResolveAssemblyReference.cache
+F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Common\obj\Debug\MyShop.Common.dll
+F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Common\obj\Debug\MyShop.Common.pdb

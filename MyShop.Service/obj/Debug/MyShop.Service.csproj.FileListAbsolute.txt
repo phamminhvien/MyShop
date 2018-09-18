@@ -1,0 +1,11 @@
+F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Service\bin\Debug\MyShop.Service.dll
+F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Service\bin\Debug\MyShop.Service.pdb
+F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Service\bin\Debug\MyShop.Common.dll
+F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Service\bin\Debug\MyShop.Data.dll
+F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Service\bin\Debug\MyShop.Model.dll
+F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Service\bin\Debug\MyShop.Common.pdb
+F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Service\bin\Debug\MyShop.Data.pdb
+F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Service\bin\Debug\MyShop.Model.pdb
+F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Service\obj\Debug\MyShop.Service.csprojResolveAssemblyReference.cache
+F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Service\obj\Debug\MyShop.Service.dll
+F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Service\obj\Debug\MyShop.Service.pdb
