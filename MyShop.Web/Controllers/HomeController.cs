@@ -15,7 +15,7 @@ namespace MyShop.Web.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Hello.";
+            ViewBag.Message = "Hello World.";
 
             return View();
         }
