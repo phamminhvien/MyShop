@@ -10,3 +10,7 @@ F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Data\bin\Debug\EntityFramework.
 F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Data\obj\Debug\MyShop.Data.csprojResolveAssemblyReference.cache
 F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Data\obj\Debug\MyShop.Data.dll
 F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Data\obj\Debug\MyShop.Data.pdb
+F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Data\bin\Debug\MyShop.Model.dll
+F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Data\bin\Debug\MyShop.Model.pdb
+F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Data\obj\Debug\MyShop.Data.Migrations.InitialDB.resources
+F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Data\obj\Debug\MyShop.Data.csproj.GenerateResource.Cache

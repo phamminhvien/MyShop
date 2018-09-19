@@ -9,3 +9,5 @@ F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Service\bin\Debug\MyShop.Model.
 F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Service\obj\Debug\MyShop.Service.csprojResolveAssemblyReference.cache
 F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Service\obj\Debug\MyShop.Service.dll
 F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Service\obj\Debug\MyShop.Service.pdb
+F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Service\bin\Debug\EntityFramework.dll
+F:\My Works\My Projects\WebBanHang\MyShop\MyShop.Service\bin\Debug\EntityFramework.xml
