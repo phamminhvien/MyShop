@@ -1,7 +1,5 @@
 ﻿using MyShop.Data.Infrastructure;
 using MyShop.Model.Models;
-using System.Collections.Generic;
-using System.Linq;
 
 namespace MyShop.Data.Repositories
 {
